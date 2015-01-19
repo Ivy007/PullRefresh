@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PullViewController.h
 //  PullRefresh
 //
 //  Created by Skye on 15/1/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PullViewController : UITableViewController
 
 @end
-
